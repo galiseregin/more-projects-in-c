@@ -1,0 +1,7 @@
+﻿  ass4.c
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\ass4.c(721,107): warning C4101: 'srcRow': unreferenced local variable
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\ass4.c(1022,9): warning C4101: 'newRow': unreferenced local variable
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\ass4.c(1022,17): warning C4101: 'newColumn': unreferenced local variable
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\ass4.c(1312,30): warning C4101: 'oppositeColor': unreferenced local variable
+C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\ass4.c(543): warning C4715: 'checkSourceObjectIsValid': not all control paths return a value
+  ass4.vcxproj -> C:\Users\Gali\OneDrive\שולחן העבודה\תרגילים\מדמח\4\ass4\Debug\ass4.exe
